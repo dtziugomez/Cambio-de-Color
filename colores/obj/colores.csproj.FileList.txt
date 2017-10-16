@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\colores.Form1.resources
+obj\Debug\colores.Properties.Resources.resources
+obj\Debug\colores.csproj.GenerateResource.Cache
+bin\Debug\colores.exe
+bin\Debug\colores.pdb
+obj\Debug\colores.exe
+obj\Debug\colores.pdb
